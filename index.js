@@ -11,3 +11,5 @@ console.log(math.log(10000, 10));
 
 var color = "green";
 console.log(`the car is ${color}`);
+
+console.log("hiii");
